@@ -161,3 +161,6 @@ ul {
 .link-contacts:hover {
   color: #404bbf;
 }
+.link-contacts:focus {
+  color: #404bbf;
+}
