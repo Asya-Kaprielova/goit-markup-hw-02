@@ -155,6 +155,9 @@ ul {
 .button-order:focus {
   background-color: #404bbf;
 }
-.nav-contacts {
+.link-contacts {
   color: #434455;
+}
+.link-contacts:hover {
+  color: #404bbf;
 }
