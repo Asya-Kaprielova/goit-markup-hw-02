@@ -15,7 +15,7 @@ ul {
   background-color: #ffffff;
 }
 .logo {
-  font-family: "Raleway", sans-serif
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -29,7 +29,7 @@ ul {
   letter-spacing: 0.02em;
 }
 .contacts {
-  font-style: normal
+  font-style: normal;
 }
 .mail {
   font-weight: 400;
@@ -60,7 +60,7 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  cursor: pointer
+  cursor: pointer;
 }
 .list-features-title {
   font-weight: 500;
@@ -122,8 +122,8 @@ ul {
   background-color: #2e2f42;
 }
 .logo-footer {
-  font-family: "Raleway", sans-serif
-  color: #F4F4FD;
+  font-family: "Raleway", sans-serif;
+  color: #f4f4fd;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -131,7 +131,7 @@ ul {
   text-transform: uppercase;
 }
 .footer-text {
-  color: #ffffff;
+  color: #f4f4fd;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
