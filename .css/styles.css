@@ -21,10 +21,6 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.nav-header {
-}
-.nav-menu {
-}
 .menu-studio {
   font-weight: 500;
   font-size: 16px;
@@ -43,10 +39,6 @@ ul {
   line-height: 150%;
   letter-spacing: 0.02em;
 }
-.contacts {
-}
-.nav-contacts {
-}
 .mail {
   font-weight: 400;
   font-size: 16px;
@@ -58,8 +50,6 @@ ul {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-}
-.main-page {
 }
 .intro {
   background-color: #2e2f42;
@@ -79,17 +69,11 @@ ul {
   line-height: 150%;
   letter-spacing: 0.04em;
 }
-.features {
-}
 .features-title {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
-}
-.list-features {
-}
-.list-features-kind {
 }
 .list-features-title {
   font-weight: 500;
@@ -112,12 +96,8 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
 }
-.list-team {
-}
 .list-team-kind {
   background-color: #ffffff;
-}
-.img-team {
 }
 .member-title {
   font-weight: 500;
@@ -133,19 +113,11 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
 }
-.Portfolio {
-}
 .portfolio-title {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
-}
-.list-portfolio {
-}
-.list-portfolio-kind {
-}
-.portfolio-img {
 }
 .portfolio-name {
   font-weight: 500;
