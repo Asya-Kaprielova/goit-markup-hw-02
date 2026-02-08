@@ -69,6 +69,7 @@ ul {
   letter-spacing: 0.02em;
 }
 .list-features-text {
+  color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -94,6 +95,7 @@ ul {
   text-align: center;
 }
 .member-position {
+  color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -113,6 +115,7 @@ ul {
   letter-spacing: 0.02em;
 }
 .portfolio-description {
+  color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -151,4 +154,7 @@ ul {
 }
 .button-order:focus {
   background-color: #404bbf;
+}
+.nav-contacts {
+  color: #434455;
 }
