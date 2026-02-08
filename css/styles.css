@@ -21,19 +21,7 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.menu-studio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-}
-.menu-portfolio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-}
-.menu-contacts {
+.menu-option {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
@@ -68,12 +56,6 @@ ul {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.04em;
-}
-.features-title {
-  font-size: 36px;
-  line-height: 111%;
-  letter-spacing: 0.02em;
-  text-align: center;
 }
 .list-features-title {
   font-weight: 500;
@@ -151,4 +133,16 @@ ul {
 }
 .accent-logo {
   color: #4d5ae5;
+}
+.link:hover {
+  color: #404bbf;
+}
+.link:focus {
+  color: #404bbf;
+}
+.button-order:hover {
+  background-color: #404bbf;
+}
+.button-order:focus {
+  background-color: #404bbf;
 }
